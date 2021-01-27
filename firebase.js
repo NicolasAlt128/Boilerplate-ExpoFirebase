@@ -8,7 +8,7 @@ const config={
   storageBucket: "testprojet-332ec.appspot.com",
   messagingSenderId: "81633270369",
   appId: "1:81633270369:web:b358b0fd6597a25ef3a820",
-  databaseURL:"testprojet-332ec-default-rtdb/"
+  databaseURL:"https://testprojet-332ec-default-rtdb.firebaseio.com/"
 }
 const Firebase = firebase.initializeApp(config);
 
